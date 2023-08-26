@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(11, 23, 31)
+}
+
+#heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
