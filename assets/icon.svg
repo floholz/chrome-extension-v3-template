@@ -1,0 +1,25 @@
+<svg width="124" height="124" viewBox="0 0 124 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="9" y="9" width="106" height="106" rx="18" fill="#090046"/>
+<rect x="9" y="9" width="106" height="106" rx="18" stroke="url(#paint0_angular_2_9)" stroke-width="4"/>
+<path d="M50.483 96.199H34.511C33.037 96.199 31.761 95.638 30.65 94.505C29.55 93.372 29 92.008 29 90.424V74.265C31.695 73.957 34.005 72.901 35.93 71.097C37.855 69.293 38.823 67.071 38.823 64.442C38.823 61.813 37.855 59.591 35.93 57.787C34.005 55.983 31.695 54.927 29 54.619V38.46C29 37.052 29.55 35.787 30.65 34.654C31.75 33.521 33.037 32.96 34.511 32.96H50.67C51.341 30.507 52.507 28.505 54.157 26.943C55.807 25.381 57.864 24.6 60.306 24.6C62.748 24.6 64.838 25.381 66.73 26.943C68.633 28.505 69.909 30.507 70.591 32.96H86.75C88.158 32.96 89.423 33.521 90.556 34.654C91.689 35.787 92.25 37.052 92.25 38.46V54.619C94.703 55.29 96.705 56.577 98.267 58.48C99.829 60.383 100.61 62.517 100.61 64.904C100.61 67.291 99.829 69.403 98.267 71.053C96.705 72.703 94.703 73.869 92.25 74.54V90.699C92.25 92.173 91.689 93.449 90.556 94.56C89.423 95.671 88.158 96.21 86.75 96.21H70.778C70.47 93.273 69.304 90.897 67.291 89.093C65.278 87.289 62.946 86.387 60.317 86.387C57.996 86.387 55.851 87.289 53.893 89.093C51.935 90.897 50.802 93.273 50.494 96.21L50.483 96.199Z" fill="#090046" stroke="url(#paint1_angular_2_9)" stroke-width="4" stroke-linejoin="round"/>
+<defs>
+<radialGradient id="paint0_angular_2_9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(62.2431 61.8055) rotate(44.7722) scale(77.8167 79.6918)">
+<stop stop-color="#FF0000"/>
+<stop offset="0.17" stop-color="#FFFF00"/>
+<stop offset="0.37" stop-color="#24FF00"/>
+<stop offset="0.545" stop-color="#00FFD1"/>
+<stop offset="0.715" stop-color="#0038FF"/>
+<stop offset="0.865" stop-color="#DB00FF"/>
+<stop offset="1" stop-color="#FF0000"/>
+</radialGradient>
+<radialGradient id="paint1_angular_2_9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(64.9632 60.2784) rotate(44.7722) scale(50.6587 51.8794)">
+<stop stop-color="#FF0000"/>
+<stop offset="0.17" stop-color="#FFFF00"/>
+<stop offset="0.37" stop-color="#24FF00"/>
+<stop offset="0.545" stop-color="#00FFD1"/>
+<stop offset="0.715" stop-color="#0038FF"/>
+<stop offset="0.865" stop-color="#DB00FF"/>
+<stop offset="1" stop-color="#FF0000"/>
+</radialGradient>
+</defs>
+</svg>
